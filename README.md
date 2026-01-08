@@ -2,7 +2,6 @@
 <em> This repository contains an explanation of inner work of React. In fact, I was debugging through the entire code base and put all the logic on visual block-schemes, analyzed them, summarized and explained main concepts and approaches. I've already finished with Stack version and now I work with the next, Fiber version.  </em>
 
 
-### I wanted to automate process of "learning and documenting" a complex codebase as much as possible, so I started [Codecrumbs project](https://codecrumbs.io/). It will help to build projects like "Under the hood ReactJs" in a shorter time and in a simpler way!
 
 
 
